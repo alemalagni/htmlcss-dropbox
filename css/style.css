@@ -151,6 +151,10 @@ header > div > div > ul > li > div {
     flex-wrap: wrap;
 }
 
+.quarto > div > img {
+    width: calc(100%);
+}
+
 /* Footer */
 
 footer{
