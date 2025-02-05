@@ -73,8 +73,13 @@ header > div > div > ul > li > div {
 
 /* Terza Sezione */
 
+.third{
+    position: relative;
+}
+
 .cnt-terzo{
     width: 400px;
+    position: absolute;
 }
 
 /* Footer */
