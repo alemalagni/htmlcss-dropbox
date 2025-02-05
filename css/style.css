@@ -71,6 +71,12 @@ header > div > div > ul > li > div {
     border: 1px solid gray;
 }
 
+/* Terza Sezione */
+
+.cnt-terzo{
+    width: 400px;
+}
+
 /* Footer */
 
 footer{
