@@ -56,3 +56,7 @@ header > div > div > ul > li > div {
     width: 1200px;
     margin: 0px auto;
 }
+
+.first > .cnt-first{
+    width: 360px;
+}
