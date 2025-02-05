@@ -21,6 +21,10 @@ a{
     text-decoration: none;
 }
 
+.margine{
+    width: 1000px;
+    margin: 0px auto;
+}
 /* Classi utili */
 
 .bianco{
