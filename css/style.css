@@ -64,3 +64,8 @@ header > div > div > ul > li > div {
 .first > .cnt-first{
     width: 360px;
 }
+
+/* Seconda Sezione */
+.sel{
+    display: flex;
+}
