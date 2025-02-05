@@ -65,6 +65,10 @@ header > div > div > ul > li > div {
     width: 360px;
 }
 
+.img-prima{
+    width: calc(100% - 360px);
+}
+
 /* Seconda Sezione */
 
 .pacchetto{
