@@ -59,6 +59,7 @@ header > div > div > ul > li > div {
 .first {
     width: 1200px;
     margin: 0px auto;
+    position: relative;
 }
 
 .first > .cnt-first{
@@ -67,6 +68,7 @@ header > div > div > ul > li > div {
 
 .img-prima{
     width: calc(1200px - 360px);
+    position: absolute;
 }
 
 .img-prima > img{
