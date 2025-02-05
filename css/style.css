@@ -73,3 +73,7 @@ header > div > div > ul > li > div {
 .pacchetti {
     display: flex;
 }
+
+.pacchetto{
+    border: 1px solid gray;
+}
