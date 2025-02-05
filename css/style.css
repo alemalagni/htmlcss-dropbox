@@ -1,6 +1,12 @@
+/* Reset */
 * {
     margin: 0 px;
     padding: 0 px;
     box-sizing: border-box;
     font-family: 'Open Sans';
+}
+
+/* Regole universale */
+ul{
+    list-style-type: none;
 }
