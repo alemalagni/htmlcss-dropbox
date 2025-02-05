@@ -171,3 +171,7 @@ header > div > div > ul > li > div {
 footer{
     background-color: #000000;
 }
+
+.sixth > ul{
+    flex-direction: row;
+}
