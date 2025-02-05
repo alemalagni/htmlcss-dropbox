@@ -172,6 +172,14 @@ footer{
     background-color: #000000;
 }
 
-.sixth > ul{
-    flex-direction: row;
+.sixth {
+    justify-content: center;
+}
+
+.sixth > div{
+    width: 260px;
+}
+
+.sixth > div > ul {
+    padding: 0px;
 }
