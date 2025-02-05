@@ -145,10 +145,12 @@ header > div > div > ul > li > div {
 
 .quarto {
     border: 0px;
+    padding-bottom: 70px;
 }
 
 .forth {
     flex-wrap: wrap;
+    padding-bottom: calc(110px - 70px);
 }
 
 .quarto > div > img {
