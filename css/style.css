@@ -25,6 +25,8 @@ li > div > a{
     width: 1000px;
     margin: 0px auto;
 }
+
+
 /* Classi utili */
 
 .bianco{
@@ -82,10 +84,12 @@ header > div > div > ul > li > div {
 
 .pacchetto{
     border: 1px solid gray;
+    width: 300px;
 }
 
 .pacchetti {
     flex-wrap: wrap;
+    justify-content: space-around;
 }
 
 /* Terza Sezione */
