@@ -26,6 +26,7 @@ button{
 li > div > a{
     color: #000000;
     text-decoration: none;
+    font-weight: light;
 }
 
 .margine{
@@ -50,12 +51,16 @@ h1{
     display: flex;
 }
 
-h2{
+h2 {
     font-size: 40px;
 }
 
-h3{
+h3 {
     font-size: 22px;
+}
+
+h4 {
+    font-size: 20px;
 }
 
 /* Header */
@@ -182,4 +187,5 @@ footer{
 
 .sixth > div > ul {
     padding: 0px;
+    margin: 0px;
 }
