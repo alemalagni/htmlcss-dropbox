@@ -70,3 +70,9 @@ header > div > div > ul > li > div {
 .pacchetto{
     border: 1px solid gray;
 }
+
+/* Footer */
+
+footer{
+    background-color: #000000;
+}
