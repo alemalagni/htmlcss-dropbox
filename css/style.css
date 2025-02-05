@@ -26,6 +26,14 @@ button{
 
 header > div{
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
+}
+
+header > div > div{
+    display: flex;
+}
+
+header > div > div > ul{
+    display: flex;
+    flex-direction: row-reverse;
 }
