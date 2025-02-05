@@ -16,7 +16,7 @@ button{
     color: white;
 }
 
-a{
+li > div > a{
     color: #000000;
     text-decoration: none;
 }
