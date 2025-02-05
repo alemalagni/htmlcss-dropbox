@@ -59,10 +59,12 @@ header > div > div > ul > li > div {
 .first {
     width: 1200px;
     margin: 0px auto;
-    position: relative;
 }
 
-.first > .cnt-first{
+.first > div > h1 {
+    position: relative;
+}
+.cnt-first{
     width: 360px;
 }
 
