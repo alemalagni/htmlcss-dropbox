@@ -11,10 +11,11 @@ ul{
     list-style-type: none;
 }
 
-/* Classi utili */
-.bg-blu{
+button{
     background-color: blue;
 }
+
+/* Classi utili */
 
 .bianco{
     color: white;
