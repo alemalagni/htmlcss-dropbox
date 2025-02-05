@@ -69,3 +69,7 @@ header > div > div > ul > li > div {
 .sel{
     display: flex;
 }
+
+.pacchetti {
+    display: flex;
+}
