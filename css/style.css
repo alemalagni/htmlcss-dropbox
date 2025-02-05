@@ -101,7 +101,7 @@ header > div > div > ul > li > div {
 }
 
 .pacchetto > div {
-    margin: 0px 30px 0px 30px;
+    margin: 0px 30px;
 }
 
 .pacchetti {
@@ -117,6 +117,7 @@ header > div > div > ul > li > div {
 
 .third{
     justify-content: center;
+    margin-bottom: 165px;
 }
 
 .img-third{
@@ -129,6 +130,7 @@ header > div > div > ul > li > div {
 
 .cnt-terzo{
     width: 400px;
+    margin: 0 50px;
 }
 
 /* Footer */
