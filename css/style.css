@@ -31,9 +31,14 @@ header > div{
 
 header > div > div{
     display: flex;
+    align-items: center;
 }
 
 header > div > div > ul{
     display: flex;
     flex-direction: row-reverse;
+}
+
+header > div > div > ul > li > div {
+    padding: 20px;
 }
