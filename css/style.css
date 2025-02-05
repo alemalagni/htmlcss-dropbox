@@ -115,6 +115,10 @@ header > div > div > ul > li > div {
 
 /* Terza Sezione */
 
+.third{
+    justify-content: center;
+}
+
 .img-third{
     width: calc(1200px - 400px)
 }
