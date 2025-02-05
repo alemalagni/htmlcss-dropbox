@@ -178,7 +178,9 @@ footer{
 }
 
 .sixth {
-    justify-content: center;
+    width: calc(260px * 5);
+    margin: 0 auto;
+    flex-wrap: wrap;
 }
 
 .sixth > div{
