@@ -137,6 +137,16 @@ header > div > div > ul > li > div {
     margin: 0 50px;
 }
 
+/* Quarta Sezione */
+
+.quarto {
+    border: 0px;
+}
+
+.forth {
+    flex-wrap: wrap;
+}
+
 /* Footer */
 
 footer{
