@@ -156,6 +156,15 @@ header > div > div > ul > li > div {
 .quarto > div > img {
     width: calc(100%);
 }
+/* Quinta Sezione */
+
+.fifth {
+    padding-bottom: 185px;
+}
+
+.fifth-h2 {
+    padding-bottom: 30px;
+}
 
 /* Footer */
 
