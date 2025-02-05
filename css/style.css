@@ -13,7 +13,14 @@ ul{
 
 button{
     background-color: blue;
-    color: white;
+    color: #ffffff;
+    border: 0px;
+}
+
+.btn {
+    background-color: #ffffff;
+    color: gray;
+    border: 1px solid gray;
 }
 
 li > div > a{
