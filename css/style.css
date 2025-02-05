@@ -93,6 +93,10 @@ header > div > div > ul > li > div {
     width: 300px;
 }
 
+.pacchetto > div {
+    margin: 0px 30px 0px 30px;
+}
+
 .pacchetti {
     flex-wrap: wrap;
     justify-content: space-around;
