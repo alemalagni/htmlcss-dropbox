@@ -47,10 +47,6 @@ header > div > div{
     align-items: center;
 }
 
-header > div > div > ul{
-    display: flex;
-}
-
 header > div > div > ul > li > div {
     padding: 40px 15px 40px 15px;
 }
@@ -70,13 +66,6 @@ header > div > div > ul > li > div {
 }
 
 /* Seconda Sezione */
-.sel{
-    display: flex;
-}
-
-.pacchetti {
-    display: flex;
-}
 
 .pacchetto{
     border: 1px solid gray;
