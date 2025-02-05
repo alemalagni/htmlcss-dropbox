@@ -115,8 +115,12 @@ header > div > div > ul > li > div {
 
 /* Terza Sezione */
 
-.third{
-    width: 800px
+.img-third{
+    width: calc(1200px - 400px)
+}
+
+.img-third > img{
+    width: calc(100%);
 }
 
 .cnt-terzo{
