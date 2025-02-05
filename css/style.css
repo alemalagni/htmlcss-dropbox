@@ -50,6 +50,10 @@ h1{
     display: flex;
 }
 
+h2{
+    font-size: 40px;
+}
+
 /* Header */
 
 header > div{
