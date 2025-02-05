@@ -24,6 +24,8 @@ button{
 
 /* Header */
 
-header{
+header > div{
     display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
