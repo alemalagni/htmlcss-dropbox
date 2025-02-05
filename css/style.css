@@ -31,6 +31,10 @@ a{
     color: white;
 }
 
+.flex{
+    display: flex;
+}
+
 /* Header */
 
 header > div{
