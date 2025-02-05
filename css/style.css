@@ -46,3 +46,13 @@ header > div > div > ul{
 header > div > div > ul > li > div {
     padding: 40px 15px 40px 15px;
 }
+
+/* Prima sezione */
+.bg-first {
+    background-color: lightblue;
+}
+
+.first {
+    width: 1200px;
+    margin: 0px auto;
+}
