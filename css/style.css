@@ -189,5 +189,11 @@ footer{
 
 .sixth > div > ul {
     padding: 0px;
-    margin: 0px;
+    margin: 0px 0px 115px 0px;
+}
+
+.seventh{
+    border-top: 1px solid #ffffff;
+    width: 70%;
+    padding: 40px 0px 100px 0px;
 }
