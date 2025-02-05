@@ -36,6 +36,8 @@ li > div > a{
 
 h1{
     font-size: 85px;
+    margin-top: 0px;
+    padding-top: 100px;
 }
 
 .bold{
