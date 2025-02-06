@@ -186,6 +186,7 @@ header > div > div > ul > li > div > a {
 .spec {
     width: 1000px;
     padding-top: 50px;
+    justify-content: space-between;
 }
 
 .pacchetto > div {
