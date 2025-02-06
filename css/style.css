@@ -176,6 +176,7 @@ header > div > div > ul > li > div > a {
 .pacchetto{
     border: 1px solid #d0cfd4;
     width: 300px;
+    padding-top: 40px;
 }
 
 .pacchetto > div {
