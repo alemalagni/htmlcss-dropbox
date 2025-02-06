@@ -34,6 +34,7 @@ li > div > a{
 .margine{
     width: 1000px;
     margin: 0px auto;
+    border-top: 1px solid gray;
 }
 
 h1{
@@ -95,6 +96,7 @@ header > div > div > ul > li > div > a {
 
 .bg-first {
     background-color: lightblue;
+    margin-bottom: 120px;
 }
 
 .first {
