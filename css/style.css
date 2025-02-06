@@ -77,8 +77,14 @@ header > div > div{
     align-items: center;
 }
 
-header > div > div > ul > li > div {
-    padding: 40px 15px 40px 15px;
+header > div > div > ul {
+    margin: 0px;
+    padding: 25px 0px;
+}
+
+header > div > div > ul > li > div > a {
+    height: 80px;
+    padding: 0px 15px;
 }
 
 /* Prima sezione */
