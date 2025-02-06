@@ -137,6 +137,12 @@ header > div > div > ul > li > div > a {
     margin-bottom: 210px;
 }
 
+.selezione {
+    padding: 10px;
+    border: 1px solid gray;
+    border-color: blue;
+}
+
 .pacchetto{
     border: 1px solid gray;
     width: 300px;
