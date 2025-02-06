@@ -147,9 +147,12 @@ header > div > div > ul > li > div > a {
     padding: 10px;
     border: 1px solid gray;
     background-color: blue;
+    border-radius: 100%;
+    margin-right: 5px;
 }
 
 .bianca {
+    margin-left: 60px;
     background-color: #ffffff;
 }
 
