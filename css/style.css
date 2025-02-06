@@ -114,6 +114,10 @@ header > div > div > ul > li > div > a {
     margin: 0px;
 }
 
+.icona {
+    width: 100%;
+}
+
 .img-prima{
     width: calc(1200px - 360px);
     position: relative;
