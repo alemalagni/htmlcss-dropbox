@@ -107,16 +107,16 @@ header > div > div > ul > li > div > a {
     width: 360px;
 }
 
+.cnt-first > .nopa{
+    padding-bottom: 20px;
+    margin: 0px;
+}
+
 .cnt-first > div {
     padding-bottom: 30px;
 }
 
 .cnt-first > div > p{
-    margin: 0px;
-}
-
-.cnt-first > div > div > h3{
-    padding-bottom: 20px;
     margin: 0px;
 }
 
