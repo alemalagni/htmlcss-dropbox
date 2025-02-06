@@ -114,8 +114,8 @@ header > div > div > ul > li > div > a {
     margin: 0px;
 }
 
-.icona {
-    width: 100%;
+.cnt-first > i {
+    font-size: 35px;
 }
 
 .img-prima{
