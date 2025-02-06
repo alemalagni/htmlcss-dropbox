@@ -19,6 +19,10 @@ button{
     padding: 10px 15px;
 }
 
+button:hover{
+    background-color: #5894f5
+}
+
 .btn {
     background-color: #ffffff;
     color: #d0cfd4;
@@ -31,6 +35,13 @@ li > div > a{
     font-weight: light;
 }
 
+a{
+    color: blue;
+}
+
+a:hover {
+    color: purple;
+}
 .margine{
     width: 1000px;
     margin: 0px auto;
