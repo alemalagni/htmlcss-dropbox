@@ -114,6 +114,10 @@ header > div > div > ul > li > div > a {
     margin: 0px;
 }
 
+.cnt-first > i {
+    font-size: 25px;
+}
+
 .img-prima{
     width: calc(1200px - 360px);
     position: relative;
