@@ -165,6 +165,12 @@ header > div > div > ul > li > div > a {
     text-align: center;
 }
 
+.punti {
+    border-top: 1px solid gray;
+    padding: 30px 0px;
+    margin-top: 20px;
+}
+
 /* Terza Sezione */
 
 .third{
