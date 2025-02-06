@@ -146,6 +146,7 @@ header > div > div > ul > li > div > a {
 
 .pacchetto > div > div > ul {
     padding: 0px;
+    list-style-type: circle;
 }
 
 .pacchetto > div > div > ul > li {
