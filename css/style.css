@@ -13,7 +13,7 @@ ul{
 }
 
 button{
-    background-color: blue;
+    background-color: #0061fe;
     color: #ffffff;
     border: 0px;
     padding: 10px 15px;
@@ -21,8 +21,8 @@ button{
 
 .btn {
     background-color: #ffffff;
-    color: gray;
-    border: 1px solid gray;
+    color: #d0cfd4;
+    border: 1px solid #d0cfd4;
 }
 
 li > div > a{
@@ -34,7 +34,7 @@ li > div > a{
 .margine{
     width: 1000px;
     margin: 0px auto;
-    border-top: 1px solid gray;
+    border-top: 1px solid #d0cfd4;
 }
 
 h1{
@@ -95,7 +95,7 @@ header > div > div > ul > li > div > a {
 /* Prima sezione */
 
 .bg-first {
-    background-color: lightblue;
+    background-color: #b4d0e6;
     margin-bottom: 120px;
 }
 
@@ -145,8 +145,8 @@ header > div > div > ul > li > div > a {
 
 .selezione {
     padding: 10px;
-    border: 1px solid gray;
-    background-color: blue;
+    border: 1px solid #d0cfd4;
+    background-color: #0061fe;
     border-radius: 100%;
     margin-right: 5px;
 }
@@ -157,7 +157,7 @@ header > div > div > ul > li > div > a {
 }
 
 .pacchetto{
-    border: 1px solid gray;
+    border: 1px solid #d0cfd4;
     width: 300px;
 }
 
@@ -196,7 +196,7 @@ header > div > div > ul > li > div > a {
 }
 
 .punti {
-    border-top: 1px solid gray;
+    border-top: 1px solid #d0cfd4;
     padding: 30px 0px;
     margin-top: 20px;
 }
