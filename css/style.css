@@ -102,6 +102,8 @@ header > div > div > ul > li > div > a {
 .first {
     width: 1200px;
     margin: 0px auto;
+    position: relative;
+    top: 100px;
 }
 
 .cnt-first > .nopa{
@@ -154,7 +156,6 @@ header > div > div > ul > li > div > a {
 
 .pacchetto > div > div > ul {
     padding: 0px;
-    list-style-type: circle;
 }
 
 .pacchetto > div > div > ul > li {
