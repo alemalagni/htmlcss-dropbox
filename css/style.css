@@ -139,10 +139,18 @@ header > div > div > ul > li > div > a {
     margin-bottom: 210px;
 }
 
+.select {
+    padding: 40px 0px;
+}
+
 .selezione {
     padding: 10px;
     border: 1px solid gray;
-    border-color: blue;
+    background-color: blue;
+}
+
+.bianca {
+    background-color: #ffffff;
 }
 
 .pacchetto{
