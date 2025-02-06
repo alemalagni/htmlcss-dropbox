@@ -148,6 +148,10 @@ header > div > div > ul > li > div > a {
     padding: 0px;
 }
 
+.pacchetto > div > div > ul > li {
+    padding: 10px;
+}
+
 .pacchetto > div > div {
     padding-bottom: 20px;
 }
