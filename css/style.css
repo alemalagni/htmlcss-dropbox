@@ -101,10 +101,6 @@ header > div > div > ul > li > div > a {
     margin: 0px auto;
 }
 
-/* .cnt-first{
-    width: 360px;
-} */
-
 .cnt-first > .nopa{
     padding-bottom: 20px;
     margin: 0px;
@@ -120,6 +116,8 @@ header > div > div > ul > li > div > a {
 
 .img-prima{
     width: calc(1200px - 360px);
+    position: relative;
+    top: 100px;
 }
 
 .img-prima > img{
