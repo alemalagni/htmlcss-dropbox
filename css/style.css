@@ -167,7 +167,7 @@ header > div > div > ul > li > div > a {
 }
 
 .selezione {
-    padding: 10px;
+    padding: 4px;
     border: 1px solid #d0cfd4;
     background-color: #0061fe;
     border-radius: 100%;
@@ -177,6 +177,15 @@ header > div > div > ul > li > div > a {
 .bianca {
     margin-left: 60px;
     background-color: #ffffff;
+    padding: 10px;
+}
+
+.attiva {
+    padding: 6px;
+    border: 0px;
+    background-color: #ffffff;
+    z-index: 1;
+    margin: 0px;
 }
 
 .pacchetto{
