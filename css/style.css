@@ -86,6 +86,7 @@ h3 {
 h4 {
     font-size: 20px;
 }
+
 .grigio {
     color:#d0cfd4
 }
@@ -182,6 +183,11 @@ header > div > div > ul > li > div > a {
     padding-top: 40px;
 }
 
+.spec {
+    width: 900px;
+    padding-top: 50px;
+}
+
 .pacchetto > div {
     margin: 0px 30px;
 }
@@ -208,7 +214,7 @@ header > div > div > ul > li > div > a {
 
 .pacchetti {
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .ut{
