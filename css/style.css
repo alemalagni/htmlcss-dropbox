@@ -106,6 +106,13 @@ header > div > div > ul > li > div > a {
     margin: 0px;
 }
 
+.img-prima{
+    width: calc(1200px - 360px);
+    position: relative;
+    top: 0px;
+    padding-bottom: 0px;
+}
+
 .cnt-first > div {
     padding-bottom: 30px;
 }
@@ -116,12 +123,6 @@ header > div > div > ul > li > div > a {
 
 .cnt-first > i {
     font-size: 35px;
-}
-
-.img-prima{
-    width: calc(1200px - 360px);
-    position: relative;
-    top: 0px;
 }
 
 .img-prima > img{
