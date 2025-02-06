@@ -132,6 +132,10 @@ header > div > div > ul > li > div > a {
 
 /* Seconda Sezione */
 
+.second {
+    margin-bottom: 210px;
+}
+
 .pacchetto{
     border: 1px solid gray;
     width: 300px;
