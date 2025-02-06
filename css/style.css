@@ -156,6 +156,10 @@ header > div > div > ul > li > div > a {
     padding-bottom: 20px;
 }
 
+.pacchetto > div > div > button{
+    width: 100%;
+}
+
 .pacchetti {
     flex-wrap: wrap;
     justify-content: space-around;
