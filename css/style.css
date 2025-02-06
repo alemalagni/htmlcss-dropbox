@@ -101,9 +101,6 @@ header > div > div > ul > li > div > a {
     margin: 0px auto;
 }
 
-.first > div > h1 {
-    position: relative;
-}
 .cnt-first{
     width: 360px;
 }
@@ -123,8 +120,6 @@ header > div > div > ul > li > div > a {
 
 .img-prima{
     width: calc(1200px - 360px);
-    position: absolute;
-    display: none;
 }
 
 .img-prima > img{
