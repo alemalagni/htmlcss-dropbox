@@ -48,6 +48,7 @@ a{
 a:hover {
     color: purple;
 }
+
 .margine{
     width: 1000px;
     margin: 0px auto;
@@ -115,6 +116,12 @@ header > div > div > ul > li > div > a {
 .testa {
     margin: 0px 10px;
 }
+
+.testa > div > ul > li > div > a:hover {
+    color: #0061fe;
+    font-weight: bold;
+}
+
 /* Prima sezione */
 
 .bg-first {
