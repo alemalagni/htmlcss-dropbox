@@ -307,6 +307,11 @@ footer{
     margin: 0px 0px 115px 0px;
 }
 
+.sixth > div > ul > li > div > a:hover{
+    color: #ffffff;
+    font-weight: bold;
+}
+
 .seventh{
     border-top: 1px solid #ffffff;
     width: 70%;
