@@ -173,8 +173,9 @@ header > div > div > ul > li > div > a {
     padding: 10px 0px;
 }
 
-.pacchetto > div > div > ul > li  > div{
-    text-indent: 20%;
+.pacchetto > div > div > ul > li  > span{
+    margin-left: 10px;
+    padding-left: 10px;
 }
 
 .pacchetto > div > div {
